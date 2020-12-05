@@ -2,4 +2,4 @@ this repo is for real time stock dashboard hosted by heroku. framing is based on
 
 [demo app](https://dash-dshbd-stock.herokuapp.com/)
 
-
+this will be explained in a blog
