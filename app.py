@@ -30,7 +30,7 @@ md_dshbd = '''
 This is a test site for real time dashboard using python plotly dash.
 Data is stock price and is pulled from [Tiingo API](https://api.tiingo.com/).
 Stock symbol are from companies in NASDAQ and could be multi-sortable.
-Data could be dug up back in 2014. Code is at [github](github.com).
+Data could be dug up back in 2014. Code is at [github](https://github.com/Tak113/dshbd_dash_heroku_stock).
 '''
 
 app.layout = dbc.Container([
